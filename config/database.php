@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $db_name = "todo_db";
     private $username = "postgres";
-    private $password = "your_password";
+    private $password = "sua_senha";
     public $conn;
 
     public function getConnection() {
